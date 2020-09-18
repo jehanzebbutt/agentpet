@@ -5,6 +5,12 @@
     height: 40px;
 }
 
+.ul-logo {
+    display: inline;
+    padding-bottom: 3%;
+    border-bottom: 1px solid #C4C4C4;
+}
+
 .com-img {
     image-rendering: optimizeQuality;
     padding-left: 1%;
