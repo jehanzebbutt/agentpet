@@ -1,0 +1,64 @@
+.logo-img {
+    image-rendering: optimizeQuality;
+    margin-left: 1%;
+    width: 180px;
+    height: 40px;
+}
+
+.com-img {
+    image-rendering: optimizeQuality;
+    padding-left: 1%;
+
+    padding-right: 1%;
+
+    border: 1px solid #e06000;
+    border-radius: 5px;
+
+    margin-left: -2%;
+    width: 50px;
+    height: 24px;
+}
+
+.home-icon {
+    image-rendering: optimizeQuality;
+    width: 27px;
+    height: 25px;
+    position: relative;
+    top: 22px;
+
+}
+
+.menu-links li>a {
+    color: #272727;
+    transition: 0.5s;
+    margin-top: 25px;
+    padding-bottom: 45px;
+    text-align: center;
+}
+
+.menu-links li>a:hover {
+    transition: 0.5s;
+    background-color: #FA6943;
+    border-radius: 10px;
+    color: white;
+}
+
+
+.side-links {
+    padding-right: 7%;
+    margin-bottom: 1%;
+}
+
+.side-links li>a {
+    border: 1px solid #FA6943;
+    border-radius: 7px;
+    color: #FA6943;
+    transition: 0.5s;
+    text-align: center;
+}
+
+.side-links li>a:hover {
+    transition: 0.5s;
+    background-color: #FA6943;
+    color: white;
+}
